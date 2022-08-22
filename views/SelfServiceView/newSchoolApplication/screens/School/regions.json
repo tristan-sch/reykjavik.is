@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SSH",
+    "name": "Höfuðborgarsvæði",
+    "label": "Samtök sveitarfélaga á höfuðborgarsvæðinu"
+  },
+  {
+    "id": "SSS",
+    "name": "Suðurnes",
+    "label": "Samtök sveitarfélaga á Suðurnesjum"
+  },
+  {
+    "id": "SSV",
+    "name": "Vesturland",
+    "label": "Samtök sveitarfélaga á Vesturlandi"
+  },
+  {
+    "id": "FV",
+    "name": "Vestfirðir",
+    "label": "Fjórðungssamband Vestfirðinga"
+  },
+  {
+    "id": "SSNV",
+    "name": "Norðurland vestra",
+    "label": "Samtök sveitarfélaga á Norðurlandi vestra"
+  },
+  {
+    "id": "SSNE",
+    "name": "Norðurland eystra",
+    "label": "Samtök sveitarfélaga á Norðurlandi eystra"
+  },
+  {
+    "id": "SSA",
+    "name": "Austurland",
+    "label": "Samtök sveitarfélaga á Austurlandi"
+  },
+  {
+    "id": "SASS",
+    "name": "Suðurlandi",
+    "label": "Samtök sunnlenskra sveitarfélaga"
+  }
+]
